@@ -1,6 +1,6 @@
 ---
 title: Startseite
-subtitle: Testwebseite
+subtitle: Testwebseite von Martin
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
